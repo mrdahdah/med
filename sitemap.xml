@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thespectre007.github.io/mrd/tags/</loc>
+  </url>
+  
+</urlset>
