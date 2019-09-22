@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Mohamed Reda</title>
-    <link>https://thespectre007.github.io/mrd/tags/</link>
-      <atom:link href="https://thespectre007.github.io/mrd/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thespectre007.github.io/tags/</link>
+      <atom:link href="https://thespectre007.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://thespectre007.github.io/mrd/img/icon-192.png</url>
+      <url>https://thespectre007.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>https://thespectre007.github.io/mrd/tags/</link>
+      <link>https://thespectre007.github.io/tags/</link>
     </image>
     
   </channel>
